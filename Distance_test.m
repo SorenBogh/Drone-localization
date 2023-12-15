@@ -1,5 +1,7 @@
 % This MatLAB code is made to process and plot data from tests to locate an Rx
 % antenna.
+% This program requires the download of the "AntenneGR514V2" folder.
+
 
 clear all;
 
